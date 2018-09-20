@@ -1,0 +1,2 @@
+# friendsim-basemod
+yeah babey!
